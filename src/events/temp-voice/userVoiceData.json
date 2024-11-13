@@ -1,0 +1,22 @@
+{
+  "1259194134799843442": {
+    "voiceChannelname": "boda5155's Channel",
+    "userLimit": 51,
+    "trustrd": [],
+    "ownerId": "1259194134799843442"
+  },
+  "1139143053387509840": {
+    "voiceChannelname": "𝘽𝙊𝘿𝘼's Channel",
+    "userLimit": 0,
+    "trustrd": [],
+    "ownerId": "1139143053387509840"
+  },
+  "1207035696099885087": {
+    "voiceChannelId": "1306039514107609100",
+    "voiceChannelname": "asdaaa",
+    "userLimit": "11",
+    "trustrd": [],
+    "untrusted": [],
+    "ownerId": "1207035696099885087"
+  }
+}
